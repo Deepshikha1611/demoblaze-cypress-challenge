@@ -1,0 +1,17 @@
+{
+  "name": "deepshikha_code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:headed": "cypress run --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Cypress E2E tests for demoblaze.com - login and laptop purchase flow",
+  "devDependencies": {
+    "cypress": "^15.14.1"
+  }
+}
