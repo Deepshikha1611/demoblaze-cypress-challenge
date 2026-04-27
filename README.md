@@ -6,7 +6,7 @@ End-to-end tests for [demoblaze.com](https://www.demoblaze.com) covering signup,
 
 ## What's Being Tested
 
-The test suite covers two main user journeys on the Demoblaze demo shop:
+The test suite covers three main user journeys on the Demoblaze demo shop:
 **Signup** (`signup.cy.js`)
 
 - Signing in with new credentials by creating them dynamically
